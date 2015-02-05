@@ -1,0 +1,173 @@
+{
+   "Bright_Yellow" : {
+      "hex_color" : "FEC400",
+      "common_name" : "Yellow",
+      "official_name" : "Bright_Yellow"
+   },
+   "Bright_Yellowish-Green" : {
+      "hex_color" : "95B90B",
+      "official_name" : "Bright_Yellowish-Green",
+      "common_name" : "Lime"
+   },
+   "Light_Purple" : {
+      "hex_color" : "EE9DC3",
+      "common_name" : "Light Pink",
+      "official_name" : "Light_Purple"
+   },
+   "Dark_Red" : {
+      "common_name" : "Dark Red",
+      "official_name" : "Dark_Red",
+      "hex_color" : "80081B"
+   },
+   "Earth_Green" : {
+      "common_name" : "Dark Green",
+      "official_name" : "Earth_Green",
+      "hex_color" : "003416"
+   },
+   "Bright_Reddish_Violet" : {
+      "hex_color" : "9C006B",
+      "official_name" : "Bright_Reddish_Violet",
+      "common_name" : "Magenta"
+   },
+   "Bright_Red" : {
+      "official_name" : "Bright_Red",
+      "common_name" : "Red",
+      "hex_color" : "DE000D"
+   },
+   "Light_Stone_Grey" : {
+      "hex_color" : "E4E4DA",
+      "common_name" : "Very Light Grey",
+      "official_name" : "Light_Stone_Grey"
+   },
+   "Medium_Lilac" : {
+      "hex_color" : "2C1577",
+      "official_name" : "Medium_Lilac",
+      "common_name" : "Dark Purple"
+   },
+   "Nougat" : {
+      "common_name" : "Flesh",
+      "official_name" : "Nougat",
+      "hex_color" : "D67240"
+   },
+   "Bright_Blue" : {
+      "official_name" : "Bright_Blue",
+      "common_name" : "Blue",
+      "hex_color" : "0057A8"
+   },
+   "Medium_Nougat" : {
+      "official_name" : "Medium_Nougat",
+      "common_name" : "Medium Dark Flesh",
+      "hex_color" : "AA7D55"
+   },
+   "Dark_Orange" : {
+      "official_name" : "Dark_Orange",
+      "common_name" : "Dark Orange",
+      "hex_color" : "A83D15"
+   },
+   "Reddish_Brown" : {
+      "hex_color" : "5B1C0C",
+      "official_name" : "Reddish_Brown",
+      "common_name" : "Reddish Brown"
+   },
+   "Sand_Yellow" : {
+      "hex_color" : "8D7452",
+      "official_name" : "Sand_Yellow",
+      "common_name" : "Dark Tan"
+   },
+   "Olive_Green" : {
+      "hex_color" : "556B2F",
+      "common_name" : "Olive Green",
+      "official_name" : "Olive_Green"
+   },
+   "Bright_Purple" : {
+      "official_name" : "Bright_Purple",
+      "common_name" : "Bright Pink",
+      "hex_color" : "DE378B"
+   },
+   "Medium_Stone_Grey" : {
+      "common_name" : "Light Grey",
+      "official_name" : "Medium_Stone_Grey",
+      "hex_color" : "9C9291"
+   },
+   "Bright_Orange" : {
+      "hex_color" : "E76318",
+      "common_name" : "Orange",
+      "official_name" : "Bright_Orange"
+   },
+   "Black" : {
+      "hex_color" : "010101",
+      "common_name" : "Black",
+      "official_name" : "Black"
+   },
+   "Dark_Stone_Grey" : {
+      "hex_color" : "4C5156",
+      "common_name" : "Dark Grey",
+      "official_name" : "Dark_Stone_Grey"
+   },
+   "Light_Nougat" : {
+      "common_name" : "Light Flesh",
+      "official_name" : "Light_Nougat",
+      "hex_color" : "F5C189"
+   },
+   "Light_Royal_Blue" : {
+      "hex_color" : "87C0EA",
+      "common_name" : "Light Blue",
+      "official_name" : "Light_Royal_Blue"
+   },
+   "Sand_Blue" : {
+      "hex_color" : "5E748C",
+      "official_name" : "Sand_Blue",
+      "common_name" : "Sand Blue"
+   },
+   "Bright_Green" : {
+      "hex_color" : "009624",
+      "official_name" : "Bright_Green",
+      "common_name" : "Bright Green"
+   },
+   "Earth_Blue" : {
+      "hex_color" : "002541",
+      "official_name" : "Earth_Blue",
+      "common_name" : "Dark Blue"
+   },
+   "Medium_Blue" : {
+      "hex_color" : "478CC6",
+      "official_name" : "Medium_Blue",
+      "common_name" : "Medium Blue"
+   },
+   "Dark_Green" : {
+      "hex_color" : "007B28",
+      "official_name" : "Dark_Green",
+      "common_name" : "Green"
+   },
+   "Medium-Yellowish_green" : {
+      "common_name" : "Dark Lime; Medium Lime",
+      "official_name" : "Medium-Yellowish_green",
+      "hex_color" : "96B93B"
+   },
+   "Flame_Yellowish_Orange" : {
+      "hex_color" : "F49B00",
+      "common_name" : "Bright Light Orange",
+      "official_name" : "Flame_Yellowish_Orange"
+   },
+   "Dark_Brown" : {
+      "common_name" : "Dark Brown",
+      "official_name" : "Dark_Brown",
+      "hex_color" : "300F06"
+   },
+   "White" : {
+      "common_name" : "Tan",
+      "official_name" : "White",
+      "hex_color" : "D9BB7B"
+   },
+   "Sand_Green" : {
+      "hex_color" : "5F8265",
+      "official_name" : "Sand_Green",
+      "common_name" : "Sand Green"
+   },
+   "Cool_Yellow" : {
+      "hex_color" : "FFFF99",
+      "official_name" : "Cool_Yellow",
+      "common_name" : "Blonde"
+   }
+}
+
